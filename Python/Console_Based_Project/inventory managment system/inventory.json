@@ -1,0 +1,17 @@
+{
+    "P001": {
+        "name": "soap",
+        "qty": 50,
+        "price": 30
+    },
+    "P002": {
+        "name": "shampoo",
+        "qty": 20,
+        "price": 100
+    },
+    "P003": {
+        "name": "toothpaste",
+        "qty": 40,
+        "price": 45
+    }
+}
